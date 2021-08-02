@@ -1,0 +1,4 @@
+pytest
+pycodestyle
+mypy
+types-requests
